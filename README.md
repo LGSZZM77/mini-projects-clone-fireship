@@ -1,1 +1,1 @@
-"# mini-projects-clone-fireship" 
+"# toy-projects-clone"
